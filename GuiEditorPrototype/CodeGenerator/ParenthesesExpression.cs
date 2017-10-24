@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace GuiEditorPrototype.CodeGenerator
 {
-    public class Expression : CodeUnit
+    public class ParenthesesExpression : Expression
     {
-        //TODO
+
     }
 }
